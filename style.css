@@ -1,0 +1,20 @@
+.container {
+  width: 1304px;
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+:root {
+  --bg-header-color: #141414;
+  --accent-color: #99823D;
+}
+
+.header_logo {
+  background-color: var(--accent-color);
+  position: absolute;
+  width: 326px;
+  height: 136px;
+}
